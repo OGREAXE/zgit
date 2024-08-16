@@ -1,0 +1,64 @@
+PODS:
+  - Alamofire (5.9.1)
+  - InAppSettingsKit (3.7.2)
+  - IQKeyboardManager (6.5.19)
+  - Kingfisher (7.6.2)
+  - MarkdownView (1.9.1)
+  - MarqueeLabel (4.0.5)
+  - NotificationBannerSwift (3.0.6):
+    - MarqueeLabel (~> 4.0.5)
+    - SnapKit (~> 5.0.1)
+  - Realm (10.52.3):
+    - Realm/Headers (= 10.52.3)
+  - Realm/Headers (10.52.3)
+  - RealmSwift (10.52.3):
+    - Realm (= 10.52.3)
+  - SkeletonView (1.30.4)
+  - SnapKit (5.0.1)
+  - SVProgressHUD (2.3.1):
+    - SVProgressHUD/Core (= 2.3.1)
+  - SVProgressHUD/Core (2.3.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.5)
+  - InAppSettingsKit
+  - IQKeyboardManager
+  - Kingfisher (~> 7.6.2)
+  - MarkdownView
+  - NotificationBannerSwift (~> 3.0.0)
+  - RealmSwift (~> 10)
+  - SkeletonView
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - InAppSettingsKit
+    - IQKeyboardManager
+    - Kingfisher
+    - MarkdownView
+    - MarqueeLabel
+    - NotificationBannerSwift
+    - Realm
+    - RealmSwift
+    - SkeletonView
+    - SnapKit
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
+  InAppSettingsKit: 2c29c867f382f1952f391a9634fa4a4fd5541a0e
+  IQKeyboardManager: c8665b3396bd0b79402b4c573eac345a31c7d485
+  Kingfisher: 6c5449c6450c5239166510ba04afe374a98afc4f
+  MarkdownView: 22249778219cc22901f1454e8355298dd0bda7f0
+  MarqueeLabel: 00cc0bcd087111dca575878b3531af980559707d
+  NotificationBannerSwift: 7021be2338f8f29cf424b0aca43da462bf9e2a1a
+  Realm: f9d340f510309e52a393d65c56103ef524d88a43
+  RealmSwift: 673454b09bc096853ee530e824847f38cdc21243
+  SkeletonView: 5a050f6411e697abd4cda0a8d767013399dccd69
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SVProgressHUD: 4837c74bdfe2e51e8821c397825996a8d7de6e22
+
+PODFILE CHECKSUM: 848ce6a831ebe5999d6b0e1c6ab3ad8e5b82f1d0
+
+COCOAPODS: 1.15.2
